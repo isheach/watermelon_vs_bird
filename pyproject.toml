@@ -1,0 +1,8 @@
+[project]
+name = "watermelon-vs-bird-kernel"
+version = "0.1.0"
+description = "Portable low-turnover signal and order estimation kernel"
+requires-python = ">=3.10"
+dependencies = []
+
+# Run from the checkout; no installation or build step is needed.

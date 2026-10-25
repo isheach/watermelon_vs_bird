@@ -1,0 +1,19 @@
+{
+  "initial_cash": "100000",
+  "turn_window": 20,
+  "minimum_days": 30,
+  "buy_n": 10,
+  "exit_rank": 15,
+  "exclude_bse": true,
+  "experiments_enabled": false,
+  "slippage_bps": "10",
+  "participation_rate": "0.01",
+  "fee_preset": "2024-2026 research parameters; adapter must select dated rates",
+  "fees": {
+    "commission_rate": "0.0002",
+    "minimum_commission": "5",
+    "buy_transfer_rate": "0.00001",
+    "sell_transfer_rate": "0.00001",
+    "sell_stamp_rate": "0.0005"
+  }
+}
